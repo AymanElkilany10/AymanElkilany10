@@ -24,7 +24,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🛍️ E-Commerce API](https://github.com/AymanElkilany10/E-Commerce.Web) | Full-featured backend API for e-commerce app. | ASP.NET Core, EF, MSSQL |
-| [🛍️ Company Management System](https://github.com/AymanElkilany10/Company-Management-System-ASP.NET-Core-MVC) | Full-featured backend MVC forCompany Management System app. | ASP.NET Core, EF, MSSQL |
+| [🛍️ Company Management System](https://github.com/AymanElkilany10/Company-Management-System) | Full-featured backend MVC forCompany Management System app. | ASP.NET Core, EF, MSSQL |
 | [👨‍💼 Employee Management System](https://github.com/ahmed-khalid2004/Employee-Management-System) | System to manage employees. | JAVA, MYSQL |
 
 ---
