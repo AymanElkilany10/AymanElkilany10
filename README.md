@@ -1,80 +1,90 @@
-<hr>👋 Hi, I’m Ayman Elkilany, a passionate Software Engineer who loves building scalable applications, solving real-world problems, and continuously learning new technologies.
-I enjoy writing clean, maintainable code and bringing ideas to life through modern backend development. 🚀
-<hr/>
+👨‍💻 Welcome to Ayman Elkilany’s Profile!
 
-<hr>
+68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e5533723454636e4d347a4a4f6a65704a612f67697068792e676966
+
+Hi, I’m Ayman Elkilany, a Software Engineer passionate about backend development, scalable systems, and writing clean, maintainable code.
+I love solving real-world problems with C#, .NET, SQL, and modern software engineering practices.
+
+<hr/>
 💼 Experience
-.NET Backend Developer | Freelance & Academic Projects
+.NET Backend Developer — Freelance & Academic Projects
 
-2023 – Present
+2023 – Present · Remote & On-site
+
+Built production-ready RESTful APIs using ASP.NET Core, EF Core, and SQL Server.
+
+Implemented JWT authentication, role-based authorization, secure API patterns, and refresh tokens.
+
+Designed modular systems using Clean Architecture, Repository Pattern, and Specification Pattern.
+
+Integrated Stripe and external services for full e-commerce flows.
+
+Optimized database queries using LINQ, indexing, and tracking/no-tracking patterns.
+
+Created reusable middleware for validation, exception handling, and response formatting.
 
 <hr/>
-
-
-
-Built production-ready RESTful APIs using ASP.NET Core, Entity Framework Core, and SQL Server.
-
-Implemented JWT authentication, authorization with roles/claims, and secure API patterns.
-
-Designed clean, modular architectures using Clean Architecture, Repository Pattern, and Specification Pattern.
-
-Worked with LINQ, performance tuning, and query optimization for large datasets.
-
-Integrated Stripe and third-party services in e-commerce and booking projects.
-
 🧠 Education
+Assiut University — Assiut, Egypt
 
-B.Sc. in Computer Science
-2022 – 2026
+B.Sc. in Computer Science (Software Engineering Major)
+2021 – 2025
 
-Strong foundation in OOP, algorithms, data structures, and database systems.
+Strong background in algorithms, OOP, data structures, and database systems.
 
-Built multiple software engineering projects using C#, Java, and SQL.
+Built multiple systems using C#, Java, SQL, and MATLAB.
 
+<hr/>
 🔧 Technical Skills
 
 Languages: C#, SQL, Java, Python, JavaScript
-Frameworks / Libraries: ASP.NET Core, Entity Framework Core, LINQ, JWT, Angular (basics)
-Tools: Git & GitHub, Docker, Postman, Swagger, SQL Server Management Studio
-Core Concepts: OOP, Data Structures, Design Patterns, Clean Architecture, APIs, Authentication & Authorization
+Frameworks: ASP.NET Core, EF Core, LINQ, JWT
+Tools: Git & GitHub, Docker, Postman, Swagger, SSMS
+Concepts: OOP, Design Patterns, Clean Architecture, APIs, Auth & AuthZ
 
+<hr/>
 🧩 Projects
-E-Commerce Web API | ASP.NET Core, EF Core, SQL Server
+E-Commerce Web API — ASP.NET Core, EF Core, SQL Server
 
-Implemented full authentication/authorization with JWT + Roles.
+Full authentication & authorization using JWT + Roles
 
-Developed product, cart, order, and payment modules with full CRUD.
+Product, cart, order, and payment modules
 
-Integrated Stripe payment and order tracking.
+Integrated Stripe payments
 
-Followed Clean Architecture with repositories and services.
+Clean Architecture + Repository + Specification Pattern
 
-Library Management System | C#, OOP
+Library Management System — C#, OOP
 
-Designed classes for books, users, and borrowing records.
+Books, users, borrowing & return modules
 
-Implemented clean OOP practices including inheritance and polymorphism.
+OOP principles (inheritance, encapsulation, polymorphism)
 
-Added search, filtering, and categorization features.
+Searching & filtering capabilities
 
-Image Processing Toolkit | MATLAB
+Image Processing Toolkit — MATLAB
 
-Implemented filters, noise removal, and edge detection pipelines.
+Noise removal, blurring, edge detection
 
-Developed histogram, equalization, and spatial domain transformations.
+Histogram equalization & thresholding
 
-🌱 Extracurricular Activities & Achievements
+<hr/>
+🌱 Extracurricular Activities
+Competitive Programming
 
-Solved 700+ algorithmic problems across LeetCode, Codeforces, and HackerRank.
+Solved 700+ problems on Codeforces, LeetCode, HackerRank
 
-Participated in multiple programming contests and university coding activities.
+Participated in contests
 
-Passionate about teaching juniors and helping others understand backend fundamentals.
+Mentoring
 
-📫 Let’s Connect
+Helped juniors understand backend fundamentals
+
+<hr/>
+📫 Connect With Me
 
 Email: aimanelkilani@gmail.com
 
-GitHub: github.com/AymanElkilany
+GitHub: https://github.com/AymanElkilany
 
-LinkedIn: linkedin.com/in/ayman-elkilany
+LinkedIn: https://linkedin.com/in/ayman-elkilany
