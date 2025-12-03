@@ -1,10 +1,16 @@
-👋 Hi, I’m Ayman Elkilany, a passionate Software Engineer who loves building scalable applications, solving real-world problems, and continuously learning new technologies.
+<hr>👋 Hi, I’m Ayman Elkilany, a passionate Software Engineer who loves building scalable applications, solving real-world problems, and continuously learning new technologies.
 I enjoy writing clean, maintainable code and bringing ideas to life through modern backend development. 🚀
+<hr/>
 
+<hr>
 💼 Experience
 .NET Backend Developer | Freelance & Academic Projects
 
 2023 – Present
+
+<hr/>
+
+
 
 Built production-ready RESTful APIs using ASP.NET Core, Entity Framework Core, and SQL Server.
 
